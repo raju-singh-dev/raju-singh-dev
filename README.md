@@ -27,7 +27,7 @@ I’m actively looking for **international opportunities** in software developme
 ## 📫 Contact Me
 
 - ✉️ Email: [raju.snzsnz@gmail.com](mailto:raju.snzsnz@gmail.com)  
-- 🌍 LinkedIn: [[Add your LinkedIn here](https://www.linkedin.com/in/raju-singh-3718982a1)]  
+- 🌍 LinkedIn: [https://www.linkedin.com/in/raju-singh-3718982a1](https://www.linkedin.com/in/raju-singh-3718982a1)  
 
 ## 📌 Featured Projects
 
