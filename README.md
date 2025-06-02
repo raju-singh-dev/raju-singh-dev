@@ -34,7 +34,7 @@ I’m actively looking for **international opportunities** in software developme
 Here are a few of my hands-on projects (coming soon or upload ASAP):
 - `fintech-api-aspnetcore`: Secure and scalable API built with ASP.NET Core and SQL Server
 - `microservice-rabbitmq-demo`: Microservice demo with RabbitMQ, Redis, and REST endpoints
-- `fullstack-loan-app`: Full-stack app integrating ASP.NET Core and React
+- `fullstack-loan-website`: Full-stack app integrating ASP.NET Core and React
 - `sql-performance-scripts`: Collection of optimized stored procedures and indexing samples
 
 > 🌱 I'm committed to continuous learning and open-source contributions.
